@@ -1,3 +1,3 @@
 const obj = {}
 
-const arr = []
+const arr = [ 1,3,4,52,2]
